@@ -1,0 +1,65 @@
+.logo {
+    width: 220px;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.side-title > h3 {
+    font-size: 21px;
+    margin-bottom: 3px;
+    margin-top: 5px;
+}
+
+.side-title > p {
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+
+.sosial-media > img {
+    width: 30px;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.navbar-custom {
+    background-image: url(images/bg-menu.jpg);
+}
+
+li.active {
+    background-image: url(images/bg-menu-hover.png);
+}
+
+.back {
+    background-color: #0F3065;
+}
+
+.kecil > .carousel-item > img {
+    object-fit: cover;
+    height: 64vh;
+}
+
+.ukuran {
+    height: 80px;
+    width: 80px;
+}
+
+.card-body {
+    padding-top: 2px !important;
+}
+
+.logo-samping{
+    vertical-align: text-bottom;
+}
+
+.footer {
+    background-color: #0F3065;
+}
+
+.pertama{
+    color: #4FB1E2;
+}
+
+.kedua{
+    color: #ACA19D;
+}
